@@ -1,0 +1,1 @@
+Keep track of your cycling rides in your Android device. Show statistics and charts.
